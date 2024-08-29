@@ -1,5 +1,7 @@
 # 🚀 Desafio de Colaboração: Criação Coletiva! 🌍
 
+<img align="right" height="165" src="/images/code_medieval.jpg"  />
+
 **Bem-vindo ao Desafio de Colaboração** — Uma jornada onde a criatividade encontra a colaboração! Vamos unir forças e criar algo incrível!
 
 ---
